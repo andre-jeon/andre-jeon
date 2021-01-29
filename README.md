@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello from New York🗽
 #### Hi, I'm André!
-![Hi, I'm André!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Hi, I'm André!]
 
 I'm a recent Lambda School Full Stack Web Development track graduate promoting a strong passion for problem-solving and building professional relationships.
 
