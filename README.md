@@ -1,4 +1,4 @@
-### Hi there I'm André Jeon from New York🗽
+### Hi there I'm André from New York🗽
 
 Here are some ideas to get you started:
 
