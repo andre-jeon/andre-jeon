@@ -1,6 +1,6 @@
-### Hi, I'm André from New York🗽
+### Hello from New York🗽
 
-Here are some ideas to get you started:
+Hi, I'm André, I'm a recent Lambda School Full Stack Web Development track graduate promoting a strong passion for problem-solving and building professional relationships.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
